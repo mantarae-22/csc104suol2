@@ -1,0 +1,30 @@
+body{	
+	margin: 0; /* set the outer spacing (margin) to 0 */
+	background-color: rgb(11, 11, 59); /* background color of the page */
+	color: whitesmoke; /* text color; foreground color */
+	/* font family - what fonts to use - more niches, to more general (the last font in the list should be a very generic font that every computer should have */
+	font-family: Georgia, 'Times New Roman', Times, serif; 
+	font-size: large; /* it is better to use relative sizing for the text size */
+}
+
+article{
+	padding: 20px;
+}
+
+h1, h2, h3 {
+	font-size: xx-large;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: white;
+}
+
+h2{
+	font-size: x-large;
+}
+
+h3{
+	font-size: large;
+}
+
+p{
+	line-height: 1.6;
+}
